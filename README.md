@@ -9,6 +9,6 @@ personal touch to it. Also im gonna develop the software with C# and Avalonia si
 Here are some Examples of what i mean: 
 
 ![image alt](https://github.com/DarkKyoka/Kyokei-Explorer/blob/main/right%20click%20menu.png?raw=true)
-
+![image alt](https://github.com/DarkKyoka/Kyokei-Explorer/blob/main/adress%20bar.png?raw=true)
 
 In the Far future after the app is developed and launched im gonna try to make it Cross-platform to windows as well.
