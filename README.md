@@ -3,7 +3,7 @@ Design assets are publicly visible for portfolio purposes only.
 No reuse, reproduction, or modification permitted without written permission.
 
 # Kyokei-Explorer
-FOSS file explorer
+FOSS file explorer, -- On Design phase
 
 # About Software
 Kyokei Explorer or Enlightener is a project which i really want to replicate and get experience on which is of course a File Explorer which will work for linux Enviroments.
