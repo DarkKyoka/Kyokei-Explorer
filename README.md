@@ -1,3 +1,7 @@
+© 2026 DarkKyoka. All rights reserved. 
+Design assets are publicly visible for portfolio purposes only. 
+No reuse, reproduction, or modification permitted without written permission.
+
 # Kyokei-Explorer
 FOSS file explorer
 
