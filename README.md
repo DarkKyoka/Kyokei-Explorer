@@ -6,7 +6,7 @@ No reuse, reproduction, or modification permitted without written permission.
 FOSS file explorer, 
 
 # About Software
-Kyokei Explorer or Enlightener is a project which i really want to replicate and get experience on which is of course a File Explorer which will work for linux Enviroments.
+Kyokei Explorer or Enlightener is a project which i really want to replicate and get experience on which is of course a File Explorer that will work on linux Enviroments.
 The key goals i want from it are mostly UI and UX goals and those are To take window's 11 file explorer UI layout and combine it with Dolphin's features but also add my 
 personal touch to it. Also im gonna develop the software with C# and Avalonia since i havent done any projects with C# yet asside from my Unity ones.
 
@@ -15,6 +15,6 @@ Here are some Examples of what i mean:
 ![image alt](https://github.com/DarkKyoka/Kyokei-Explorer/blob/main/right%20click%20menu.png?raw=true)
 ![image alt](https://github.com/DarkKyoka/Kyokei-Explorer/blob/main/adress%20bar.png?raw=true)
 
-of course its not the final design its just the blueprint but the UI will orbit around this concept 
+of course it's not the final design, it's just the blueprint but the UI will orbit around this concept.
 
 In the Far future after the app is developed and launched im gonna try to make it Cross-platform to windows as well.
